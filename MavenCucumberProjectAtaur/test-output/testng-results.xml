@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div "result">I am on fund transfer web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I enter valid payee &quot;Jim&quot; and valid amount &quot;500&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I click on Transfer button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should get success message &quot;$500 transferred successfully to Jim!!&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will Enter &quot;Farhana&quot;, &quot;Zaman&quot;,&quot;farhana@yahoo.com&quot;, &quot;farhana@yahoo.com&quot;,&quot;far7645&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will select &quot;Jun&quot;,&quot;25&quot;, &quot;1987&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will Enter &quot;Mohammed&quot;, &quot;Islam&quot;,&quot;islam@gmail.com&quot;, &quot;islam@gmail.com&quot;,&quot;islam423&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will click on &quot;Male&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will select &quot;May&quot;,&quot;26&quot;, &quot;1975&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will Enter &quot;Padma&quot;, &quot;Khan&quot;,&quot;padma@yahoo.com&quot;, &quot;padma@yahoo.com&quot;,&quot;padm1432&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will select &quot;Feb&quot;,&quot;27&quot;, &quot;1985&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will Enter &quot;Farhana&quot;, &quot;Zaman&quot;,&quot;farhana@yahoo.com&quot;, &quot;farhana@yahoo.com&quot;,&quot;far7645&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will select &quot;Jun&quot;,&quot;28&quot;, &quot;1987&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will Enter &quot;Mohammed&quot;, &quot;Zahir&quot;,&quot;islam@gmail.com&quot;, &quot;islam@gmail.com&quot;,&quot;islam423&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will click on &quot;Male&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will select &quot;May&quot;,&quot;29&quot;, &quot;1975&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will Enter &quot;Oyshi&quot;, &quot;Khan&quot;,&quot;padma@yahoo.com&quot;, &quot;padma@yahoo.com&quot;,&quot;padm1432&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will select &quot;Feb&quot;,&quot;30&quot;, &quot;1985&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2018-07-04T22:51:07Z" name="Default suite" finished-at="2018-07-04T22:51:39Z" duration-ms="32430">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2018-07-04T22:51:07Z" name="Default test" finished-at="2018-07-04T22:51:39Z" duration-ms="32430">
+      <class name="runnerPack.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:07Z" name="setUpClass" finished-at="2018-07-04T22:51:07Z" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:07Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-07-04T22:51:12Z" duration-ms="4859" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Valid payee and Valid Amount"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fund Transfer functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I am on fund transfer web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I enter valid payee &quot;Jim&quot; and valid amount &quot;500&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I click on Transfer button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should get success message &quot;$500 transferred successfully to Jim!!&quot; (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:12Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-07-04T22:51:17Z" duration-ms="4392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will able to Registration by using valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration form fillup"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will Enter &quot;Farhana&quot;, &quot;Zaman&quot;,&quot;farhana@yahoo.com&quot;, &quot;farhana@yahoo.com&quot;,&quot;far7645&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will select &quot;Jun&quot;,&quot;25&quot;, &quot;1987&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:17Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-07-04T22:51:21Z" duration-ms="4709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will able to Registration by using valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration form fillup"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will Enter &quot;Mohammed&quot;, &quot;Islam&quot;,&quot;islam@gmail.com&quot;, &quot;islam@gmail.com&quot;,&quot;islam423&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will click on &quot;Male&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will select &quot;May&quot;,&quot;26&quot;, &quot;1975&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:21Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-07-04T22:51:26Z" duration-ms="4738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will able to Registration by using valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration form fillup"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will Enter &quot;Padma&quot;, &quot;Khan&quot;,&quot;padma@yahoo.com&quot;, &quot;padma@yahoo.com&quot;,&quot;padm1432&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will select &quot;Feb&quot;,&quot;27&quot;, &quot;1985&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:26Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-07-04T22:51:31Z" duration-ms="4522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will able to Registration by using valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration form fillup"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will Enter &quot;Farhana&quot;, &quot;Zaman&quot;,&quot;farhana@yahoo.com&quot;, &quot;farhana@yahoo.com&quot;,&quot;far7645&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will select &quot;Jun&quot;,&quot;28&quot;, &quot;1987&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:31Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-07-04T22:51:35Z" duration-ms="4546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will able to Registration by using valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration form fillup"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will Enter &quot;Mohammed&quot;, &quot;Zahir&quot;,&quot;islam@gmail.com&quot;, &quot;islam@gmail.com&quot;,&quot;islam423&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will click on &quot;Male&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will select &quot;May&quot;,&quot;29&quot;, &quot;1975&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:35Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-07-04T22:51:39Z" duration-ms="4263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will able to Registration by using valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration form fillup"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">user is on registration form web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will Enter &quot;Oyshi&quot;, &quot;Khan&quot;,&quot;padma@yahoo.com&quot;, &quot;padma@yahoo.com&quot;,&quot;padm1432&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will click on &quot;Female&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will select &quot;Feb&quot;,&quot;30&quot;, &quot;1985&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">user will able to register successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runnerPack.TestRunner@2525ff7e]" started-at="2018-07-04T22:51:39Z" name="tearDownClass" finished-at="2018-07-04T22:51:39Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runnerPack.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
