@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="runnerPack.TestRunner" time="31.298" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="runnerPack.TestRunner" time="35.812" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="10.0.1+10"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-10.0.1\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\tanvi\eclipse-workspace\MavenCucumberProjectAtaur"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\tanvi\git\MavenCucumberProjectAtaur\MavenCucumberProjectAtaur"/>
     <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\tanvi\eclipse-workspace\MavenCucumberProjectAtaur"/>
+    <property name="user.dir" value="C:\Users\tanvi\git\MavenCucumberProjectAtaur\MavenCucumberProjectAtaur"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="10.0.1+10"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -64,11 +64,11 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="runnerPack.TestRunner" name="runScenario" time="5.346"/>
-  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.505"/>
-  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.254"/>
-  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.329"/>
-  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.228"/>
-  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.319"/>
-  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.317"/>
+  <testcase classname="runnerPack.TestRunner" name="runScenario" time="5.565"/>
+  <testcase classname="runnerPack.TestRunner" name="runScenario" time="6.428"/>
+  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.532"/>
+  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.251"/>
+  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.403"/>
+  <testcase classname="runnerPack.TestRunner" name="runScenario" time="6.293"/>
+  <testcase classname="runnerPack.TestRunner" name="runScenario" time="4.34"/>
 </testsuite>
