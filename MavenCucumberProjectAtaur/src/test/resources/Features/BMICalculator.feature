@@ -1,23 +1,31 @@
+@BMICalculator
 Feature: BMI Calculater functionality
-  Users can calculate their BMI.As a user I can calculate my BMI by using BMI Calculater
-  
-  Secnario: Optimum Height and Weight
-    Given 	I am on BMI Calculater Webpage 
-    When    I enter Height in Centimiters "160" and Weight in Kilograms "65"
-    And     I click on calculate
-    Then    I should get message BMI is "23.4,normal" 
-  Secnario: Optimum Height and too over Weight
-    Given 	I am on BMI Calculater Webpage 
-     When    I enter Height in Centimiters "160" and Weight in Kilograms "95"
-    And     I click on calculate
-     Then    I should get message BMI is "37.1, obesity" 
-  Secnario:  Optimum Height and over weight
-     Given 	I am on BMI Calculater Webpage 
-     When    I enter Height in Centimiters "180" and Weight in Kilograms "95"
-    And     I click on calculate
-    Then    I should get message BMI is "29.3, overweight" 
-  Secnario: optimum Height and under Weight
-    Given 	I am on BMI Calculater Webpage 
-    When    I enter Height in Centimiters "150" and Weight in Kilograms "35"
-    And     I click on calculate
-    Then    I should get message BMI is "15.6 ,underweight"
+  As a user I want to calculate my BMI by using BMI Calculater
+
+  Scenario: Categoty Under Weight
+    Given I am on BMI Calculater Webpage
+    When I enter Height in Centimiters "170" and Weight in Kilograms "50"
+    And I click on calculate button
+    Then I should get BMI value "17.3"
+    And I should get BMI Category "Underweight"
+
+  Scenario: Categoty Over Weight
+    Given I am on BMI Calculater Webpage
+    When I enter Height in Centimiters "170" and Weight in Kilograms "80"
+    And I click on calculate button
+    Then I should get BMI value "27.7"
+    And I should get BMI Category "Overweight"
+
+  Scenario: Categoty Normal
+    Given I am on BMI Calculater Webpage
+    When I enter Height in Centimiters "170" and Weight in Kilograms "60"
+    And I click on calculate button
+    Then I should get BMI value "20.8"
+    And I should get BMI Category "Normal"
+
+  Scenario: Categoty Obesity
+    Given I am on BMI Calculater Webpage
+    When I enter Height in Centimiters "170" and Weight in Kilograms "90"
+    And I click on calculate button
+    Then I should get BMI value "31.1"
+    And I should get BMI Category "Obesity"

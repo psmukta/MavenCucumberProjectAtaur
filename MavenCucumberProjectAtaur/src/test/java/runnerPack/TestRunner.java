@@ -9,7 +9,8 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 
         features="src/test/resources/Features",
         glue="stepPack",
-        tags= {"@FundTransfer, @OurWebSite", "@ValidPayeeValidAmount, @DataDriven" },
+        //tags= {"@FundTransfer, @OurWebSite", "@ValidPayeeValidAmount, @DataDriven" },
+        //tags= {"@BMICalculator"},
         plugin= {"pretty","html:testReport"},
     
         monochrome=true
