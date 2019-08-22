@@ -1,7 +1,8 @@
 @FundTransfer
 Feature: Fund Transfer functionality
   As a user I want to transfer fund to my friends and family
- @ValidPayeeValidAmount
+
+  @ValidPayeeValidAmount
   Scenario: Valid payee and Valid Amount
     Given I am on fund transfer web page
     When I enter valid payee "Jim" and valid amount "500"

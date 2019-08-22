@@ -10,6 +10,8 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
         features="src/test/resources/Features",
         glue="stepPack",
         //tags= {"@FundTransfer, @OurWebSite", "@ValidPayeeValidAmount, @DataDriven" },
+        //first ""=feature file name,""=scenario name
+        
         //tags= {"@BMICalculator"},
         plugin= {"pretty","html:testReport"},
     
